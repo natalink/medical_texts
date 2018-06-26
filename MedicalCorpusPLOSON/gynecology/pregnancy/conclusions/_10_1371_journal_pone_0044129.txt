@@ -1,0 +1,150 @@
+An estimated 287 000 maternal deaths occurred in 2010 around the world. Despite the substantial reduction as compared to 1990, much has to be done for achieving the relevant target of the Millennium Development Goals [1]. Most of the burden of maternal deaths is carried by low-income countries, but maternal mortality is still a relevant public health problem among middle-income countries. In this context, strengthening health systems and services to provide optimal care for women during pregnancy and childbirth is crucial, particularly to those women experiencing acute pregnancy-related complications [2]–[5].Confidential enquiries of maternal deaths have been used for many years to understand health systems and services failures in the provision of appropriate maternal health care. Based on these enquiries, lessons can be learned and used to strengthen health systems and improve quality of care [6]. Despite the positive contribution of this approach, it has limitations, particularly in low mortality settings or at the health service level, where the amount of maternal deaths is generally insufficient to provide useful information. In the last 20 years, the concept of maternal near miss has been explored in maternal health as an adjunct to maternal-death confidential enquiries. Women who nearly died but survived complications have been studied as surrogates of maternal deaths. Among other positive characteristics, maternal near-miss cases can directly inform on problems and obstacles that had to be overcome during the process of health care. Maternal near-miss audits have been considered as useful approaches to improve maternal health care [7], [8].In 2008, the World Health Organization (WHO) has adopted a maternal near-miss definition and established standard criteria for the identification of women presenting pregnancy-related life-threatening conditions. Women surviving any of the life-threatening conditions listed in the Table 1 during pregnancy, childbirth, or postpartum are considered as maternal near-miss cases by WHO. The WHO definition enables a common ground for the implementation of maternal near-miss assessments across countries and allows international comparisons to be carried out [9].10.1371/journal.pone.0044129.t001Table 1
+          The WHO set of severity markers (life-threatening conditions) used in maternal near-miss assessments.
+        
+          
+          
+            
+              
+              
+              
+            
+            
+              
+                
+                Group A*
+                Group B*
+              
+            
+            
+              
+                
+                  
+                    Cardiovascular dysfunction
+                  
+                
+                •Shock
+                •pH <7.1
+              
+              
+                
+                •Lactate >5
+                •Use of continuous vasoactive drugs
+              
+              
+                
+                
+                •Cardiac arrest
+              
+              
+                
+                
+                •Cardio-pulmonary resuscitation (CPR)
+              
+              
+                
+                  
+                    Respiratory dysfunction
+                  
+                
+                •Acute cyanosis
+                •Gasping
+              
+              
+                
+                •Respiratory rate >40 or <6/min
+                •PaO2/FiO2<200 mmHg
+              
+              
+                
+                •Oxygen saturation <90% for ≥60 minutes
+                •Intubation and ventilation not related to anesthesia
+              
+              
+                
+                
+                
+              
+              
+                
+                  
+                    Renal dysfunction
+                  
+                
+                •Oliguria non responsive to fluids or diuretics
+                •Creatinine ≥300 mmol/l or ≥3,5 mg/dl
+              
+              
+                
+                
+                •Dialysis for acute renal failure
+              
+              
+                
+                  
+                    Coagulation/hematological dysfunction
+                  
+                
+                •Clotting failure
+                •Acute thrombocytopenia (<50 000 platelets)
+              
+              
+                
+                •Transfusion of ≥5 units of blood/red cells
+                
+              
+              
+                
+                  
+                    Hepatic dysfunction
+                  
+                
+                •Jaundice in the presence of pre-eclampsia
+                •Bilirubin>100 mmol/l or >6,0 mg/dl
+              
+              
+                
+                  
+                    Neurological dysfunction
+                  
+                
+                •Metabolic coma (loss of consciousness ANDthe presence of glucose and ketoacids in urine)
+                •Coma/loss of consciousness lasting 12 hours or more
+              
+              
+                
+                •Stroke
+                
+              
+              
+                
+                •Status epilepticus/Uncontrollable fits/total paralysis
+                
+              
+              
+                
+                  
+                    Uterine dysfunction
+                  
+                
+                •Hysterectomy due to infection or hemorrhage
+                
+              
+            
+          
+        
+          
+            *
+            A glossary with relevant operational definitions is available at reference 28. Stratification of the WHO life-threatening conditions is based on the SOFA score (reference 30). Group B reflects SOFA score categories 3 and 4 (i.e. markers of greater severity).
+          
+        
+        Validation of the Set of the WHO Criteria for Identifying Women with Life-threatening Conditions
+        The WHO maternal near-miss definition and identification criteria have been developed using the collective wisdom of a group of international experts gathered by WHO in an evidence-informed process [9]. A systematic review summarizing the range of previous related experiences provided the scientific basis for the development of the WHO definition and identification criteria [10]. Intensive-care prognostic and severity assessment scores, such as the APACHE II, SAPS, MODS and particularly the SOFA score, were reviewed as possible sources of severity markers for identifying women with life-threatening conditions [11]–[13]. A secondary analysis of a previous multicountry study was conducted to explore pragmatic identification criteria for maternal near misses [14]. In addition, a small preliminary study was carried for piloting and pre-validating the criteria proposed by the WHO working group [15].
+        In spite of the evidence-informed process that led the development of the WHO criteria for identifying women with life-threatening conditions, an actual validation of such criteria is required. The validation of such criteria depends on the similarity between maternal deaths and maternal near-miss cases. From the conceptual standpoint, near-miss cases should be as similar to maternal deaths as possible. However, the development of criteria to identify near-miss cases is challenged by the absence of a gold-standard for near-miss cases. In addition, the identification of near-miss cases is always retrospective, i.e. the woman needs to survive the life-threatening complication in order to be considered as a near-miss case. In this context and considering a set of criteria as a diagnostic test, it is assumed that a set of criteria able to accurately “identify” maternal deaths would have as false positives the maternal near-miss cases. Truly-positive cases (maternal deaths) would be similar to false positive cases (maternal near-miss cases) except the vital status [14].
+      
+        Development of a Benchmarking Tool
+        Populations of critically ill patients may differ in their mortality risks, depending on the severity of individual cases, the case-mix, and the quality of the therapeutic management, among other factors. Prognostic/risk-scoring systems have been used in the assessment of medical and surgical critically ill patients. Most of these systems are based on mathematical models and aim at determining the position of individual patients in the spectrum of severity. By providing a judgment-free assessment of individual risks, these tools enable neutral case-mix adjustments for groups of patients. Some of these tools also enable an assessment of health service performance in the provision of care, as they allow an estimation of expected mortality considering the specific population case-mix. By comparing the observed mortality to the expected mortality in the population, a sense of appropriateness of care can be made [11], [12], [16], [17]. This is a benchmark approach, which uses the population that generated the model as the standard for comparison [17]. Some attempts to use these generic systems in populations of severely-ill obstetric populations have been made, but the accuracy of these systems has been considered as suboptimal, possibly due to the mismatch between the reference population (general, non-obstetric) and the target population (obstetric) [18]–[22].
+        The WHO criteria are a package of 25 severity markers portraying a comprehensive range of life-threatening conditions. Each of these severity markers is associated with a specific relationship with mortality. In addition, women experiencing pregnancy-related complications can present more than one of these severity markers. Thus, combinations of severity markers would be associated with different mortality risks. For instance, a woman that presents postpartum hemorrhage and undergoes a hysterectomy due to uterine atony has a different risk of death as compared to a woman presenting several markers of severity denoting multiple organ dysfunctions. Similarly, depending on the case-mix, a population of women presenting life-threatening conditions may differ in its relationship with mortality in comparison to other populations of women presenting life-threatening conditions. Thus, a benchmark tool able to minimize severity bias by providing case-mix adjustment and enable comparisons to a reference population would improve the applicability of the maternal near-miss concept and enable more appropriate comparisons between populations.
+      
+        Objectives
+        The present analysis aims at validating the WHO criteria for identification of women with pregnancy-related life-threatening conditions and developing a benchmark tool for severe maternal morbidity assessments.
+      

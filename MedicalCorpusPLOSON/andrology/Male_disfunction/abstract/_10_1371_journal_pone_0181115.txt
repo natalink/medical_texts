@@ -1,0 +1,3 @@
+
+We used a gas chromatography-mass spectrometry (GC-MS) based metabolomics approach to obtain the metabolic profiling of unexplained male infertility (UMI), and identified seminal plasma biomarkers associated with UMI by a two-stage population study. A robust OPLS-DA model based on these identified metabolites was able to distinguish 82% of the UMI patients from health controls with a specificity of 92%. In this model, 44 metabolites were found differentially expressed in UMI subjects compared with health controls. By pathway enrichment analysis, we identified several major changed metabolic pathways related to UMI. Our findings provide new perspective for the diagnosis of UMI.
+
